@@ -1,0 +1,12 @@
+D:\work\game_development\move_game\move_game\move_game\obj\Debug\slimove.csproj.AssemblyReference.cache
+D:\work\game_development\move_game\move_game\move_game\obj\Debug\Game.MainGame.resources
+D:\work\game_development\move_game\move_game\move_game\obj\Debug\move_game.Properties.Resources.resources
+D:\work\game_development\move_game\move_game\move_game\obj\Debug\slimove.csproj.GenerateResource.cache
+D:\work\game_development\move_game\move_game\move_game\obj\Debug\slimove.csproj.CoreCompileInputs.cache
+D:\work\game_development\move_game\move_game\move_game\bin\Debug\move_game.exe.config
+D:\work\game_development\move_game\move_game\move_game\bin\Debug\move_game.exe
+D:\work\game_development\move_game\move_game\move_game\bin\Debug\move_game.pdb
+D:\work\game_development\move_game\move_game\move_game\obj\Debug\move_game.exe
+D:\work\game_development\move_game\move_game\move_game\obj\Debug\move_game.pdb
+D:\work\game_development\move_game\move_game\move_game\obj\Debug\move_game.exe.config
+D:\work\game_development\move_game\move_game\move_game\obj\Debug\move_game.StartForm.resources
